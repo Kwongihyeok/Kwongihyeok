@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=flutter&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=flutter&logoColor=white">&nbsp
   
 </div>
 
@@ -17,8 +17,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Xcode-#147EFB?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp
 </div>
 
 
