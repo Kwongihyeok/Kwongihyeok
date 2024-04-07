@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=flutter&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=flutter&logoColor=white">&nbsp
   
 </div>
 
