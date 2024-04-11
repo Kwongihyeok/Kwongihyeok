@@ -39,9 +39,7 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heuk0722" alt="Solved.ac/heuk0722">
 </a></p>
 -->
-<a herf="https://solved.ac/profile/heuk0722/", target="_blank">
+<p><a herf="https://solved.ac/profile/heuk0722/", target="_blank">
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=heuk0722>
-</a>
-
-출처: https://dandalf.tistory.com/110 [Dandalf's Life Log:티스토리]
+</a></p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
