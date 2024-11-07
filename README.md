@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Spring&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/spring-02569B?style=for-the-badge&logo=Spring&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Mybatis&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp
   
